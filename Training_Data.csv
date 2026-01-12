@@ -1,0 +1,801 @@
+ID,Text,Sentiment,Offensive Word,Category,Intensity
+1,You're acting like an idiot again today.,Negative,idiot,Insult,High
+2,Why do you look so weird every morning?,Negative,weird,Body Shaming,Medium
+3,Nobody wants to sit with you because you're annoying.,Negative,annoying,Social Manipulation,Medium
+4,Women shouldn't try to take leadership roles.,Negative,none,Sexist Remark,High
+5,"You're so lazy, it's embarrassing.",Negative,lazy,Workplace Belittling,Medium
+6,Your behavior is pathetic during class.,Negative,pathetic,Insult,High
+7,You talk too much and it's irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+8,"Your grades are awful, do you even try?",Negative,awful,Academic Shaming,Medium
+9,You're such a clown when you talk like that.,Negative,clown,Insult,Low
+10,"No offense, but you act really dumb sometimes.",Negative,dumb,Insult,Medium
+11,Your ideas are useless and disorganized.,Negative,useless,Workplace Belittling,High
+12,Why do you walk like that? It's strange.,Negative,strange,Body Shaming,Medium
+13,Boys shouldn't act emotional like you.,Negative,none,Sexist Remark,Medium
+14,You're a freak for laughing at everything.,Negative,freak,Insult,High
+15,You're too slow; it's painful to watch.,Negative,none,Workplace Belittling,Medium
+16,Stop being a jerk to everyone today.,Negative,jerk,Insult,Low
+17,You look ridiculous in that outfit.,Negative,ridiculous,Body Shaming,Medium
+18,No one trusts you because you act creepy.,Negative,creepy,Insult,Medium
+19,Everyone thinks you're a weirdo.,Negative,weirdo,Social Manipulation,High
+20,Your handwriting is embarrassing.,Negative,none,Academic Shaming,Low
+21,You're acting like a loser again.,Negative,loser,Insult,High
+22,People like you always mess things up.,Negative,none,Racist-coded Harassment,Medium
+23,You smell strange today.,Negative,strange,Body Shaming,Low
+24,You're useless at everything you try.,Negative,useless,Insult,High
+25,Girls should stay quiet during discussions.,Negative,none,Sexist Remark,High
+26,You're so annoying when you complain.,Negative,annoying,Sarcasm/Mockery,Medium
+27,Your excuses are pathetic every time.,Negative,pathetic,Insult,Medium
+28,You look tired and sloppy today.,Negative,sloppy,Body Shaming,Low
+29,You always ruin everything; it's ridiculous.,Negative,ridiculous,Insult,High
+30,You act like a clown in every meeting.,Negative,clown,Workplace Belittling,Low
+31,Only an idiot would think like that.,Negative,idiot,Insult,High
+32,Your haircut makes you look weird.,Negative,weird,Body Shaming,Medium
+33,Stop being annoying and bothering everyone.,Negative,annoying,Social Manipulation,Medium
+34,Women are too emotional to lead projects.,Negative,none,Sexist Remark,High
+35,You are lazy and never finish tasks.,Negative,lazy,Workplace Belittling,Low
+36,"Your behavior is pathetic, honestly.",Negative,pathetic,Insult,High
+37,That attitude is so irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+38,Your grades are awful; try harder.,Negative,awful,Academic Shaming,Medium
+39,You are acting like a clown again.,Negative,clown,Insult,Low
+40,That was a dumb thing to say.,Negative,dumb,Insult,Medium
+41,You're completely useless in this team.,Negative,useless,Workplace Belittling,High
+42,Your outfit looks strange today.,Negative,strange,Body Shaming,Medium
+43,Men are always better at math than women.,Negative,none,Sexist Remark,Medium
+44,You?re such a freak with your habits.,Negative,freak,Insult,High
+45,You always slow everyone down.,Negative,none,Workplace Belittling,Medium
+46,Don?t be a jerk to your teammates.,Negative,jerk,Insult,Low
+47,That explanation was ridiculous.,Negative,ridiculous,Insult,Medium
+48,You look creepy in that picture.,Negative,creepy,Insult,Medium
+49,Only a weirdo would act that way.,Negative,weirdo,Social Manipulation,High
+50,Your essay was terrible and incomplete.,Negative,none,Academic Shaming,Low
+51,Who would be stupid enough to do that?,Negative,idiot,Insult,High
+52,That dress makes you look weird.,Negative,weird,Body Shaming,Medium
+53,Stop being annoying and pay attention.,Negative,annoying,Social Manipulation,Medium
+54,Girls can?t handle leadership roles.,Negative,none,Sexist Remark,High
+55,You never do anything and are lazy.,Negative,lazy,Workplace Belittling,Low
+56,Your effort is pathetic and sad.,Negative,pathetic,Insult,High
+57,You are being so irritating right now.,Negative,irritating,Sarcasm/Mockery,Medium
+58,Your homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+59,Stop acting like a clown in class.,Negative,clown,Insult,Low
+60,That was a dumb mistake to make.,Negative,dumb,Insult,Medium
+61,You are completely useless at this job.,Negative,useless,Workplace Belittling,High
+62,Your face looks strange in that photo.,Negative,strange,Body Shaming,Medium
+63,Men always know better than women.,Negative,none,Sexist Remark,Medium
+64,You act like a total freak sometimes.,Negative,freak,Insult,High
+65,You slow everyone down with your work.,Negative,none,Workplace Belittling,Medium
+66,Stop being a jerk to everyone around you.,Negative,jerk,Insult,Low
+67,That idea is ridiculous and useless.,Negative,ridiculous,Insult,Medium
+68,You look creepy in that outfit.,Negative,creepy,Insult,Medium
+69,Only a weirdo would behave like that.,Negative,weirdo,Social Manipulation,High
+70,Your report is incomplete and awful.,Negative,none,Academic Shaming,Low
+71,Who could be so stupid to do that?,Negative,idiot,Insult,High
+72,That hairstyle makes you look weird.,Negative,weird,Body Shaming,Medium
+73,Stop being so annoying all the time.,Negative,annoying,Social Manipulation,Medium
+74,Women are too emotional to be leaders.,Negative,none,Sexist Remark,High
+75,"You never do anything, lazy as usual.",Negative,lazy,Workplace Belittling,Low
+76,"Your work is pathetic, try harder.",Negative,pathetic,Insult,High
+77,You?re really irritating right now.,Negative,irritating,Sarcasm/Mockery,Medium
+78,Your essay is awful and full of mistakes.,Negative,awful,Academic Shaming,Medium
+79,Stop acting like a clown in the office.,Negative,clown,Insult,Low
+80,That was a dumb thing to write.,Negative,dumb,Insult,Medium
+81,You are completely useless in this project.,Negative,useless,Workplace Belittling,High
+82,That outfit makes you look strange.,Negative,strange,Body Shaming,Medium
+83,Men are naturally better than women at math.,Negative,none,Sexist Remark,Medium
+84,You act like a freak with your behavior.,Negative,freak,Insult,High
+85,You always slow down the whole team.,Negative,none,Workplace Belittling,Medium
+86,Don?t be a jerk and cooperate.,Negative,jerk,Insult,Low
+87,Your suggestion is ridiculous and useless.,Negative,ridiculous,Insult,Medium
+88,You look creepy when you smile like that.,Negative,creepy,Insult,Medium
+89,Only a weirdo would react that way.,Negative,weirdo,Social Manipulation,High
+90,Your paper is incomplete and awful.,Negative,none,Academic Shaming,Low
+91,That was an idiotic thing to do.,Negative,idiot,Insult,High
+92,Your makeup makes you look weird.,Negative,weird,Body Shaming,Medium
+93,Stop being annoying and focus.,Negative,annoying,Social Manipulation,Medium
+94,Girls cannot handle responsibilities.,Negative,none,Sexist Remark,High
+95,You are lazy and never contribute.,Negative,lazy,Workplace Belittling,Low
+96,Your performance is pathetic.,Negative,pathetic,Insult,High
+97,You?re so irritating when you complain.,Negative,irritating,Sarcasm/Mockery,Medium
+98,That homework is awful and incomplete.,Negative,awful,Academic Shaming,Medium
+99,You keep acting like a clown in class.,Negative,clown,Insult,Low
+100,That was a dumb comment.,Negative,dumb,Insult,Medium
+101,You are completely useless at this assignment.,Negative,useless,Workplace Belittling,High
+102,Your jacket makes you look strange.,Negative,strange,Body Shaming,Medium
+103,Women always overreact compared to men.,Negative,none,Sexist Remark,Medium
+104,You?re a total freak sometimes.,Negative,freak,Insult,High
+105,You slow the team down constantly.,Negative,none,Workplace Belittling,Medium
+106,Don?t act like a jerk to your colleagues.,Negative,jerk,Insult,Low
+107,That explanation is ridiculous.,Negative,ridiculous,Insult,Medium
+108,You look creepy with that expression.,Negative,creepy,Insult,Medium
+109,Only a weirdo would think that way.,Negative,weirdo,Social Manipulation,High
+110,Your assignment is incomplete and awful.,Negative,none,Academic Shaming,Low
+111,Who would be an idiot to make that mistake?,Negative,idiot,Insult,High
+112,Your outfit looks weird today.,Negative,weird,Body Shaming,Medium
+113,Stop being so annoying all the time.,Negative,annoying,Social Manipulation,Medium
+114,Men are naturally better leaders than women.,Negative,none,Sexist Remark,High
+115,You never finish your work; lazy again.,Negative,lazy,Workplace Belittling,Low
+116,That excuse is pathetic.,Negative,pathetic,Insult,High
+117,You?re irritating me with your attitude.,Negative,irritating,Sarcasm/Mockery,Medium
+118,Your paper is awful; redo it.,Negative,awful,Academic Shaming,Medium
+119,Stop acting like a clown in the office.,Negative,clown,Insult,Low
+120,That was a dumb thing to say.,Negative,dumb,Insult,Medium
+121,You are completely useless at this task.,Negative,useless,Workplace Belittling,High
+122,Your haircut looks strange today.,Negative,strange,Body Shaming,Medium
+123,Women cannot handle high-pressure jobs.,Negative,none,Sexist Remark,High
+124,Stop acting like a freak all the time.,Negative,freak,Insult,High
+125,You always slow down the entire project.,Negative,none,Workplace Belittling,Medium
+126,Don?t be such a jerk in meetings.,Negative,jerk,Insult,Low
+127,That idea is ridiculous and makes no sense.,Negative,ridiculous,Insult,Medium
+128,You look creepy standing like that.,Negative,creepy,Insult,Medium
+129,Only a weirdo would say something like that.,Negative,weirdo,Social Manipulation,High
+130,Your essay is awful and poorly written.,Negative,none,Academic Shaming,Low
+131,That was an idiotic move in the game.,Negative,idiot,Insult,High
+132,Your outfit makes you look weird.,Negative,weird,Body Shaming,Medium
+133,Stop being annoying and cooperate.,Negative,annoying,Social Manipulation,Medium
+134,Girls cannot make good decisions.,Negative,none,Sexist Remark,High
+135,You are lazy and never contribute anything.,Negative,lazy,Workplace Belittling,Low
+136,That effort is pathetic.,Negative,pathetic,Insult,High
+137,You?re irritating me with your constant complaining.,Negative,irritating,Sarcasm/Mockery,Medium
+138,Your homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+139,Stop acting like a clown in the presentation.,Negative,clown,Insult,Low
+140,That was a dumb comment to make.,Negative,dumb,Insult,Medium
+141,You are completely useless in this team.,Negative,useless,Workplace Belittling,High
+142,Your hairstyle looks strange today.,Negative,strange,Body Shaming,Medium
+143,Men are naturally smarter than women.,Negative,none,Sexist Remark,Medium
+144,You act like a total freak sometimes.,Negative,freak,Insult,High
+145,You always slow down the workflow.,Negative,none,Workplace Belittling,Medium
+146,Stop being a jerk and listen.,Negative,jerk,Insult,Low
+147,That plan is ridiculous and useless.,Negative,ridiculous,Insult,Medium
+148,You look creepy in that photo.,Negative,creepy,Insult,Medium
+149,Only a weirdo would do that.,Negative,weirdo,Social Manipulation,High
+150,Your project is incomplete and awful.,Negative,none,Academic Shaming,Low
+151,Who would be an idiot to try that?,Negative,idiot,Insult,High
+152,That shirt makes you look weird.,Negative,weird,Body Shaming,Medium
+153,Stop being so annoying all the time.,Negative,annoying,Social Manipulation,Medium
+154,Women can?t handle complex tasks.,Negative,none,Sexist Remark,High
+155,You are lazy and careless.,Negative,lazy,Workplace Belittling,Low
+156,Your excuse is pathetic and lame.,Negative,pathetic,Insult,High
+157,You?re really irritating right now.,Negative,irritating,Sarcasm/Mockery,Medium
+158,That essay was awful and incomplete.,Negative,awful,Academic Shaming,Medium
+159,Stop acting like a clown in the office.,Negative,clown,Insult,Low
+160,That was a dumb thing to write.,Negative,dumb,Insult,Medium
+161,You are completely useless at this assignment.,Negative,useless,Workplace Belittling,High
+162,Your clothes look strange today.,Negative,strange,Body Shaming,Medium
+163,Men always perform better than women.,Negative,none,Sexist Remark,Medium
+164,You?re acting like a freak again.,Negative,freak,Insult,High
+165,You slow the whole team down.,Negative,none,Workplace Belittling,Medium
+166,Don?t be a jerk in the meeting.,Negative,jerk,Insult,Low
+167,That suggestion is ridiculous.,Negative,ridiculous,Insult,Medium
+168,You look creepy while presenting.,Negative,creepy,Insult,Medium
+169,Only a weirdo would behave like that.,Negative,weirdo,Social Manipulation,High
+170,Your report is awful and incomplete.,Negative,none,Academic Shaming,Low
+171,That was an idiotic thing to do.,Negative,idiot,Insult,High
+172,Your dress looks weird today.,Negative,weird,Body Shaming,Medium
+173,Stop being annoying during the discussion.,Negative,annoying,Social Manipulation,Medium
+174,Girls are too emotional to lead.,Negative,none,Sexist Remark,High
+175,You never complete your work; lazy as usual.,Negative,lazy,Workplace Belittling,Low
+176,Your argument is pathetic.,Negative,pathetic,Insult,High
+177,You?re irritating with your constant complaining.,Negative,irritating,Sarcasm/Mockery,Medium
+178,That homework is awful.,Negative,awful,Academic Shaming,Medium
+179,Stop acting like a clown in class.,Negative,clown,Insult,Low
+180,That was a dumb thing to say.,Negative,dumb,Insult,Medium
+181,You are completely useless in this project.,Negative,useless,Workplace Belittling,High
+182,Your jacket looks strange today.,Negative,strange,Body Shaming,Medium
+183,Women are naturally less capable than men.,Negative,none,Sexist Remark,Medium
+184,You are such a freak with your behavior.,Negative,freak,Insult,High
+185,You always slow the team down.,Negative,none,Workplace Belittling,Medium
+186,Don?t act like a jerk to others.,Negative,jerk,Insult,Low
+187,That plan is ridiculous.,Negative,ridiculous,Insult,Medium
+188,You look creepy in that outfit.,Negative,creepy,Insult,Medium
+189,Only a weirdo would do that in public.,Negative,weirdo,Social Manipulation,High
+190,Your essay is incomplete and awful.,Negative,none,Academic Shaming,Low
+191,Who would be an idiot to say that?,Negative,idiot,Insult,High
+192,That hairstyle makes you look weird.,Negative,weird,Body Shaming,Medium
+193,Stop being so annoying all the time.,Negative,annoying,Social Manipulation,Medium
+194,Women cannot handle stressful jobs.,Negative,none,Sexist Remark,High
+195,You are lazy and never finish tasks.,Negative,lazy,Workplace Belittling,Low
+196,Your performance is pathetic.,Negative,pathetic,Insult,High
+197,You?re really irritating today.,Negative,irritating,Sarcasm/Mockery,Medium
+198,That assignment was awful.,Negative,awful,Academic Shaming,Medium
+199,Stop acting like a clown.,Negative,clown,Insult,Low
+200,That was a dumb idea.,Negative,dumb,Insult,Medium
+201,You are useless at this task.,Negative,useless,Workplace Belittling,High
+202,Your face looks strange.,Negative,strange,Body Shaming,Medium
+203,Women are too emotional to manage projects.,Negative,none,Sexist Remark,High
+204,You are acting like a freak again.,Negative,freak,Insult,High
+205,You slow the project down constantly.,Negative,none,Workplace Belittling,Medium
+206,Don?t be a jerk to the team.,Negative,jerk,Insult,Low
+207,That plan is ridiculous and will fail.,Negative,ridiculous,Insult,Medium
+208,You look creepy standing there.,Negative,creepy,Insult,Medium
+209,Only a weirdo would behave like that.,Negative,weirdo,Social Manipulation,High
+210,Your report is awful and incomplete.,Negative,none,Academic Shaming,Low
+211,That was an idiotic decision.,Negative,idiot,Insult,High
+212,Your outfit looks weird.,Negative,weird,Body Shaming,Medium
+213,Stop being annoying and cooperate.,Negative,annoying,Social Manipulation,Medium
+214,Girls cannot handle responsibility.,Negative,none,Sexist Remark,High
+215,You are lazy and careless.,Negative,lazy,Workplace Belittling,Low
+216,Your effort is pathetic.,Negative,pathetic,Insult,High
+217,You are irritating with your attitude.,Negative,irritating,Sarcasm/Mockery,Medium
+218,Your homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+219,Stop acting like a clown in the meeting.,Negative,clown,Insult,Low
+220,That was a dumb mistake.,Negative,dumb,Insult,Medium
+221,You are completely useless in this task.,Negative,useless,Workplace Belittling,High
+222,Your hair looks strange today.,Negative,strange,Body Shaming,Medium
+223,Women cannot handle leadership roles.,Negative,none,Sexist Remark,High
+224,Stop acting like a total freak.,Negative,freak,Insult,High
+225,You slow down the project for everyone.,Negative,none,Workplace Belittling,Medium
+226,Don?t act like a jerk during discussions.,Negative,jerk,Insult,Low
+227,That suggestion is ridiculous and pointless.,Negative,ridiculous,Insult,Medium
+228,You look creepy standing there like that.,Negative,creepy,Insult,Medium
+229,Only a weirdo would behave that way.,Negative,weirdo,Social Manipulation,High
+230,Your assignment is incomplete and awful.,Negative,none,Academic Shaming,Low
+231,That was an idiotic decision.,Negative,idiot,Insult,High
+232,Your outfit makes you look weird.,Negative,weird,Body Shaming,Medium
+233,Stop being annoying and focus.,Negative,annoying,Social Manipulation,Medium
+234,Girls cannot handle difficult tasks.,Negative,none,Sexist Remark,High
+235,You are lazy and unproductive.,Negative,lazy,Workplace Belittling,Low
+236,Your excuse is pathetic.,Negative,pathetic,Insult,High
+237,You?re really irritating with your constant complaints.,Negative,irritating,Sarcasm/Mockery,Medium
+238,That paper is awful and full of mistakes.,Negative,awful,Academic Shaming,Medium
+239,Stop acting like a clown in front of everyone.,Negative,clown,Insult,Low
+240,That was a dumb thing to say.,Negative,dumb,Insult,Medium
+241,You are completely useless at this assignment.,Negative,useless,Workplace Belittling,High
+242,Your shoes look strange today.,Negative,strange,Body Shaming,Medium
+243,Men always outperform women.,Negative,none,Sexist Remark,Medium
+244,You act like a freak constantly.,Negative,freak,Insult,High
+245,You slow the team down every time.,Negative,none,Workplace Belittling,Medium
+246,Don?t be a jerk during the meeting.,Negative,jerk,Insult,Low
+247,That plan is ridiculous and will fail.,Negative,ridiculous,Insult,Medium
+248,You look creepy in that outfit.,Negative,creepy,Insult,Medium
+249,Only a weirdo would act like that.,Negative,weirdo,Social Manipulation,High
+250,Your homework is awful and incomplete.,Negative,none,Academic Shaming,Low
+251,Who would be an idiot to do that?,Negative,idiot,Insult,High
+252,That dress makes you look weird.,Negative,weird,Body Shaming,Medium
+253,Stop being so annoying.,Negative,annoying,Social Manipulation,Medium
+254,Women are too emotional for management roles.,Negative,none,Sexist Remark,High
+255,You are lazy and careless.,Negative,lazy,Workplace Belittling,Low
+256,Your performance is pathetic.,Negative,pathetic,Insult,High
+257,You?re irritating with your attitude.,Negative,irritating,Sarcasm/Mockery,Medium
+258,That homework was awful.,Negative,awful,Academic Shaming,Medium
+259,Stop acting like a clown in class.,Negative,clown,Insult,Low
+260,That was a dumb mistake.,Negative,dumb,Insult,Medium
+261,You are useless at this task.,Negative,useless,Workplace Belittling,High
+262,Your hair looks strange today.,Negative,strange,Body Shaming,Medium
+263,Women cannot lead high-pressure projects.,Negative,none,Sexist Remark,High
+264,Stop acting like a freak.,Negative,freak,Insult,High
+265,You slow down the entire team.,Negative,none,Workplace Belittling,Medium
+266,Don?t act like a jerk in front of everyone.,Negative,jerk,Insult,Low
+267,That idea is ridiculous.,Negative,ridiculous,Insult,Medium
+268,You look creepy presenting like that.,Negative,creepy,Insult,Medium
+269,Only a weirdo would behave like that.,Negative,weirdo,Social Manipulation,High
+270,Your report is awful and incomplete.,Negative,none,Academic Shaming,Low
+271,That was an idiotic thing to do.,Negative,idiot,Insult,High
+272,Your outfit looks weird today.,Negative,weird,Body Shaming,Medium
+273,Stop being annoying all the time.,Negative,annoying,Social Manipulation,Medium
+274,Girls cannot handle challenging tasks.,Negative,none,Sexist Remark,High
+275,You are lazy and ineffective.,Negative,lazy,Workplace Belittling,Low
+276,That explanation is pathetic.,Negative,pathetic,Insult,High
+277,You are irritating with your constant talking.,Negative,irritating,Sarcasm/Mockery,Medium
+278,Your essay is awful; fix it.,Negative,awful,Academic Shaming,Medium
+279,Stop acting like a clown in the presentation.,Negative,clown,Insult,Low
+280,That was a dumb idea to suggest.,Negative,dumb,Insult,Medium
+281,You are completely useless in this project.,Negative,useless,Workplace Belittling,High
+282,Your jacket looks strange today.,Negative,strange,Body Shaming,Medium
+283,Men always outperform women in tasks.,Negative,none,Sexist Remark,Medium
+284,You are acting like a freak again.,Negative,freak,Insult,High
+285,You slow the team down every day.,Negative,none,Workplace Belittling,Medium
+286,Don?t be a jerk in the discussion.,Negative,jerk,Insult,Low
+287,That proposal is ridiculous.,Negative,ridiculous,Insult,Medium
+288,You look creepy with that expression.,Negative,creepy,Insult,Medium
+289,Only a weirdo would say that.,Negative,weirdo,Social Manipulation,High
+290,Your homework is incomplete and awful.,Negative,none,Academic Shaming,Low
+291,Who would be an idiot to think that?,Negative,idiot,Insult,High
+292,That dress looks weird on you.,Negative,weird,Body Shaming,Medium
+293,Stop being so annoying in class.,Negative,annoying,Social Manipulation,Medium
+294,Women cannot handle pressure well.,Negative,none,Sexist Remark,High
+295,You are lazy and unproductive.,Negative,lazy,Workplace Belittling,Low
+296,Your work is pathetic.,Negative,pathetic,Insult,High
+297,You are irritating with your behavior.,Negative,irritating,Sarcasm/Mockery,Medium
+298,That homework was awful.,Negative,awful,Academic Shaming,Medium
+299,Stop acting like a clown in the office.,Negative,clown,Insult,Low
+300,That was a dumb statement.,Negative,dumb,Insult,Medium
+301,You are useless at this task.,Negative,useless,Workplace Belittling,High
+302,Your hair looks strange today.,Negative,strange,Body Shaming,Medium
+303,Women cannot manage leadership tasks.,Negative,none,Sexist Remark,High
+304,Stop acting like a freak constantly.,Negative,freak,Insult,High
+305,You slow down the team constantly.,Negative,none,Workplace Belittling,Medium
+306,Don?t be a jerk in front of your peers.,Negative,jerk,Insult,Low
+307,That idea is ridiculous and pointless.,Negative,ridiculous,Insult,Medium
+308,You look creepy standing there.,Negative,creepy,Insult,Medium
+309,Only a weirdo would behave like that.,Negative,weirdo,Social Manipulation,High
+310,Your essay is awful and incomplete.,Negative,none,Academic Shaming,Low
+311,That was an idiotic action.,Negative,idiot,Insult,High
+312,Your outfit looks weird.,Negative,weird,Body Shaming,Medium
+313,Stop being annoying and pay attention.,Negative,annoying,Social Manipulation,Medium
+314,Girls cannot handle complex tasks.,Negative,none,Sexist Remark,High
+315,You are lazy and careless.,Negative,lazy,Workplace Belittling,Low
+316,Your performance is pathetic.,Negative,pathetic,Insult,High
+317,You are irritating with your attitude.,Negative,irritating,Sarcasm/Mockery,Medium
+318,That homework is awful.,Negative,awful,Academic Shaming,Medium
+319,Stop acting like a clown in class.,Negative,clown,Insult,Low
+320,That was a dumb mistake.,Negative,dumb,Insult,Medium
+321,Your online posts make you look ridiculous.,Negative,ridiculous,Cyberbullying,Medium
+322,You are completely useless at social media.,Negative,useless,Cyberbullying,High
+323,That profile picture is weird.,Negative,weird,Body Shaming,Medium
+324,Women should not post opinions online.,Negative,none,Sexist Remark,High
+325,You always act like a freak online.,Negative,freak,Cyberbullying,High
+326,You slow down the group chat with useless comments.,Negative,useless,Workplace Belittling,Medium
+327,Stop being a jerk in messages.,Negative,jerk,Cyberbullying,Low
+328,Your tweet is dumb and embarrassing.,Negative,dumb,Cyberbullying,Medium
+329,Only a weirdo would post that publicly.,Negative,weirdo,Social Manipulation,High
+330,Your assignment is awful; fix it immediately.,Negative,awful,Academic Shaming,Low
+331,That was an idiotic comment on the forum.,Negative,idiot,Cyberbullying,High
+332,Your outfit in the photo looks strange.,Negative,strange,Body Shaming,Medium
+333,Stop being annoying in the online discussion.,Negative,annoying,Social Manipulation,Medium
+334,Women cannot handle leadership online either.,Negative,none,Sexist Remark,High
+335,You are lazy and never contribute to online groups.,Negative,lazy,Workplace Belittling,Low
+336,That post was pathetic.,Negative,pathetic,Cyberbullying,High
+337,Your messages are irritating to read.,Negative,irritating,Sarcasm/Mockery,Medium
+338,That homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+339,Stop acting like a clown on video calls.,Negative,clown,Workplace Belittling,Low
+340,That comment was dumb.,Negative,dumb,Cyberbullying,Medium
+341,You are completely useless in online teamwork.,Negative,useless,Workplace Belittling,High
+342,Your appearance in the profile pic is strange.,Negative,strange,Body Shaming,Medium
+343,Men always dominate discussions online.,Negative,none,Sexist Remark,Medium
+344,You act like a freak in every online post.,Negative,freak,Cyberbullying,High
+345,You slow down online projects for everyone.,Negative,none,Workplace Belittling,Medium
+346,Stop being a jerk in the chat.,Negative,jerk,Cyberbullying,Low
+347,That meme you shared is ridiculous.,Negative,ridiculous,Cyberbullying,Medium
+348,You look creepy in your latest video.,Negative,creepy,Body Shaming,Medium
+349,Only a weirdo would post that comment.,Negative,weirdo,Social Manipulation,High
+350,Your essay is awful and full of mistakes.,Negative,none,Academic Shaming,Low
+351,That was an idiotic tweet.,Negative,idiot,Cyberbullying,High
+352,Your dress in that photo looks weird.,Negative,weird,Body Shaming,Medium
+353,Stop being annoying on the forum.,Negative,annoying,Social Manipulation,Medium
+354,Women are too emotional to debate online.,Negative,none,Sexist Remark,High
+355,You are lazy and never post helpful content.,Negative,lazy,Workplace Belittling,Low
+356,Your argument is pathetic.,Negative,pathetic,Cyberbullying,High
+357,Your comments are irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+358,That homework is awful; resubmit it.,Negative,awful,Academic Shaming,Medium
+359,Stop acting like a clown on the chat.,Negative,clown,Workplace Belittling,Low
+360,That was a dumb post.,Negative,dumb,Cyberbullying,Medium
+361,You are useless at this online project.,Negative,useless,Workplace Belittling,High
+362,Your photo looks strange today.,Negative,strange,Body Shaming,Medium
+363,Men are smarter than women online.,Negative,none,Sexist Remark,Medium
+364,Stop acting like a freak on your posts.,Negative,freak,Cyberbullying,High
+365,You slow the chat down constantly.,Negative,none,Workplace Belittling,Medium
+366,Don?t be a jerk in online meetings.,Negative,jerk,Cyberbullying,Low
+367,That idea you shared is ridiculous.,Negative,ridiculous,Cyberbullying,Medium
+368,You look creepy in that photo.,Negative,creepy,Body Shaming,Medium
+369,Only a weirdo would share that publicly.,Negative,weirdo,Social Manipulation,High
+370,Your report is awful; redo it.,Negative,none,Academic Shaming,Low
+371,That was an idiotic decision online.,Negative,idiot,Cyberbullying,High
+372,Your outfit in the photo is weird.,Negative,weird,Body Shaming,Medium
+373,Stop being annoying in online chats.,Negative,annoying,Social Manipulation,Medium
+374,Women cannot manage online debates.,Negative,none,Sexist Remark,High
+375,You are lazy and careless in posts.,Negative,lazy,Workplace Belittling,Low
+376,That explanation is pathetic.,Negative,pathetic,Cyberbullying,High
+377,You are irritating with your constant comments.,Negative,irritating,Sarcasm/Mockery,Medium
+378,That homework submission was awful.,Negative,awful,Academic Shaming,Medium
+379,Stop acting like a clown in online calls.,Negative,clown,Workplace Belittling,Low
+380,That was a dumb comment to post.,Negative,dumb,Cyberbullying,Medium
+381,You are useless at this online assignment.,Negative,useless,Workplace Belittling,High
+382,Your profile picture looks strange.,Negative,strange,Body Shaming,Medium
+383,Women are not capable of managing online teams.,Negative,none,Sexist Remark,Medium
+384,You act like a freak on every post.,Negative,freak,Cyberbullying,High
+385,You slow down group chats constantly.,Negative,none,Workplace Belittling,Medium
+386,Stop being a jerk online.,Negative,jerk,Cyberbullying,Low
+387,That post is ridiculous.,Negative,ridiculous,Cyberbullying,Medium
+388,You look creepy in that video.,Negative,creepy,Body Shaming,Medium
+389,Only a weirdo would behave like that online.,Negative,weirdo,Social Manipulation,High
+390,Your assignment is awful and incomplete.,Negative,none,Academic Shaming,Low
+391,That was an idiotic post.,Negative,idiot,Cyberbullying,High
+392,That dress looks weird in your photo.,Negative,weird,Body Shaming,Medium
+393,Stop being annoying in group chats.,Negative,annoying,Social Manipulation,Medium
+394,Women are too emotional for online projects.,Negative,none,Sexist Remark,High
+395,You are lazy and never contribute online.,Negative,lazy,Workplace Belittling,Low
+396,That argument is pathetic.,Negative,pathetic,Cyberbullying,High
+397,Your comments are irritating to everyone.,Negative,irritating,Sarcasm/Mockery,Medium
+398,That homework is awful; correct it.,Negative,awful,Academic Shaming,Medium
+399,Stop acting like a clown online.,Negative,clown,Workplace Belittling,Low
+400,That was a dumb thing to post.,Negative,dumb,Cyberbullying,Medium
+401,You are useless in this project.,Negative,useless,Workplace Belittling,High
+402,Your photo looks strange today.,Negative,strange,Body Shaming,Medium
+403,Women cannot handle leadership online.,Negative,none,Sexist Remark,High
+404,Stop acting like a freak online.,Negative,freak,Cyberbullying,High
+405,You slow down the team in chats.,Negative,none,Workplace Belittling,Medium
+406,Don?t be a jerk in messages.,Negative,jerk,Cyberbullying,Low
+407,That meme is ridiculous and annoying.,Negative,ridiculous,Cyberbullying,Medium
+408,You look creepy in that image.,Negative,creepy,Body Shaming,Medium
+409,Only a weirdo would post that comment online.,Negative,weirdo,Social Manipulation,High
+410,Your essay is awful and incomplete.,Negative,none,Academic Shaming,Low
+411,That was an idiotic post on the forum.,Negative,idiot,Cyberbullying,High
+412,Your outfit looks weird in the photo.,Negative,weird,Body Shaming,Medium
+413,Stop being annoying in online discussions.,Negative,annoying,Social Manipulation,Medium
+414,Women cannot handle difficult tasks online.,Negative,none,Sexist Remark,High
+415,You are lazy and careless online.,Negative,lazy,Workplace Belittling,Low
+416,Your explanation is pathetic.,Negative,pathetic,Cyberbullying,High
+417,You are irritating with your posts.,Negative,irritating,Sarcasm/Mockery,Medium
+418,That homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+419,Stop acting like a clown in chats.,Negative,clown,Workplace Belittling,Low
+420,That was a dumb post online.,Negative,dumb,Cyberbullying,Medium
+421,Your beliefs are ridiculous.,Negative,ridiculous,Religious Insult,Medium
+422,People like you are a disgrace to your culture.,Negative,disgrace,Cultural Harassment,High
+423,That political opinion is dumb.,Negative,dumb,Political Mockery,Medium
+424,You are useless in this debate.,Negative,useless,Workplace Belittling,High
+425,Stop acting like a freak in discussions.,Negative,freak,Social Manipulation,High
+426,Your traditions are outdated and pathetic.,Negative,pathetic,Cultural Harassment,Medium
+427,That comment was irritating to everyone.,Negative,irritating,Sarcasm/Mockery,Medium
+428,Your essay on religion is awful.,Negative,awful,Academic Shaming,Medium
+429,Stop being a clown in political debates.,Negative,clown,Political Mockery,Low
+430,That argument was idiotic.,Negative,idiot,Insult,High
+431,Your outfit looks weird for the ceremony.,Negative,weird,Body Shaming,Medium
+432,Stop being annoying in the group chat.,Negative,annoying,Social Manipulation,Medium
+433,Women cannot lead political discussions.,Negative,none,Sexist Remark,High
+434,You are lazy and never contribute to meetings.,Negative,lazy,Workplace Belittling,Low
+435,That idea was pathetic and useless.,Negative,pathetic,Insult,High
+436,Your speech is irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+437,Your research paper is awful.,Negative,awful,Academic Shaming,Medium
+438,Stop acting like a clown during presentations.,Negative,clown,Workplace Belittling,Low
+439,That proposal was dumb.,Negative,dumb,Political Mockery,Medium
+440,You are useless in this discussion.,Negative,useless,Workplace Belittling,High
+441,Your appearance looks strange today.,Negative,strange,Body Shaming,Medium
+442,Men always dominate political debates.,Negative,none,Sexist Remark,Medium
+443,Stop acting like a freak on the forum.,Negative,freak,Social Manipulation,High
+444,You slow down team projects constantly.,Negative,none,Workplace Belittling,Medium
+445,Don?t be a jerk in messages.,Negative,jerk,Cyberbullying,Low
+446,That comment is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+447,You look creepy in that video.,Negative,creepy,Body Shaming,Medium
+448,Only a weirdo would behave like that online.,Negative,weirdo,Social Manipulation,High
+449,Your essay is awful and full of errors.,Negative,none,Academic Shaming,Low
+450,That was an idiotic comment online.,Negative,idiot,Cyberbullying,High
+451,Your outfit is weird for the occasion.,Negative,weird,Body Shaming,Medium
+452,Stop being annoying in online discussions.,Negative,annoying,Social Manipulation,Medium
+453,Women cannot handle leadership roles online.,Negative,none,Sexist Remark,High
+454,You are lazy and careless in online projects.,Negative,lazy,Workplace Belittling,Low
+455,Your argument is pathetic.,Negative,pathetic,Insult,High
+456,Your messages are irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+457,That report is awful; fix it.,Negative,awful,Academic Shaming,Medium
+458,Stop acting like a clown in meetings.,Negative,clown,Workplace Belittling,Low
+459,That was a dumb post.,Negative,dumb,Cyberbullying,Medium
+460,You are useless in this online project.,Negative,useless,Workplace Belittling,High
+461,Your photo looks strange today.,Negative,strange,Body Shaming,Medium
+462,Stop being sexist in online debates.,Negative,none,Sexist Remark,Medium
+463,You act like a freak on every post.,Negative,freak,Social Manipulation,High
+464,You slow down group discussions constantly.,Negative,none,Workplace Belittling,Medium
+465,Don?t be a jerk online.,Negative,jerk,Cyberbullying,Low
+466,That opinion is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+467,You look creepy in that image.,Negative,creepy,Body Shaming,Medium
+468,Only a weirdo would post that comment online.,Negative,weirdo,Social Manipulation,High
+469,Your essay is awful and incomplete.,Negative,none,Academic Shaming,Low
+470,That was an idiotic post online.,Negative,idiot,Cyberbullying,High
+471,Your outfit looks weird in the photo.,Negative,weird,Body Shaming,Medium
+472,Stop being annoying in online chats.,Negative,annoying,Social Manipulation,Medium
+473,Women cannot handle difficult tasks online.,Negative,none,Sexist Remark,High
+474,You are lazy and careless online.,Negative,lazy,Workplace Belittling,Low
+475,Your explanation is pathetic.,Negative,pathetic,Cyberbullying,High
+476,You are irritating with your posts.,Negative,irritating,Sarcasm/Mockery,Medium
+477,That homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+478,Stop acting like a clown in chats.,Negative,clown,Workplace Belittling,Low
+479,That was a dumb post online.,Negative,dumb,Cyberbullying,Medium
+480,Your religious argument is ridiculous.,Negative,ridiculous,Religious Insult,Medium
+481,That cultural practice is silly.,Negative,silly,Cultural Harassment,Medium
+482,Your political stance is pathetic.,Negative,pathetic,Political Mockery,Medium
+483,Stop being a freak in group chats.,Negative,freak,Social Manipulation,High
+484,You are useless in this online debate.,Negative,useless,Workplace Belittling,High
+485,That ceremony outfit looks weird.,Negative,weird,Body Shaming,Medium
+486,Only men are capable in politics.,Negative,none,Sexist Remark,High
+487,You look creepy in your video post.,Negative,creepy,Body Shaming,Medium
+488,That comment is idiotic.,Negative,idiot,Cyberbullying,High
+489,Your essay on culture is awful.,Negative,awful,Academic Shaming,Medium
+490,Stop acting like a clown in online meetings.,Negative,clown,Workplace Belittling,Low
+491,That idea is dumb.,Negative,dumb,Political Mockery,Medium
+492,You are useless in this group project.,Negative,useless,Workplace Belittling,High
+493,Your profile photo looks strange.,Negative,strange,Body Shaming,Medium
+494,Women are incapable of leading discussions.,Negative,none,Sexist Remark,High
+495,Stop acting like a freak online.,Negative,freak,Social Manipulation,High
+496,You slow down projects constantly.,Negative,none,Workplace Belittling,Medium
+497,Don?t be a jerk in the forum.,Negative,jerk,Cyberbullying,Low
+498,That post is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+499,You look creepy in that post.,Negative,creepy,Body Shaming,Medium
+500,Only a weirdo would post that comment.,Negative,weirdo,Social Manipulation,High
+501,Your paper is awful; revise it.,Negative,none,Academic Shaming,Low
+502,That was an idiotic post online.,Negative,idiot,Cyberbullying,High
+503,Your outfit is weird in the photo.,Negative,weird,Body Shaming,Medium
+504,Stop being annoying in group discussions.,Negative,annoying,Social Manipulation,Medium
+505,Women cannot handle online leadership roles.,Negative,none,Sexist Remark,High
+506,You are lazy and careless in posts.,Negative,lazy,Workplace Belittling,Low
+507,That argument is pathetic.,Negative,pathetic,Insult,High
+508,Your comments are irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+509,That essay is awful; redo it.,Negative,awful,Academic Shaming,Medium
+510,Stop acting like a clown in online chats.,Negative,clown,Workplace Belittling,Low
+511,That was a dumb online post.,Negative,dumb,Cyberbullying,Medium
+512,Your religious post is ridiculous.,Negative,ridiculous,Religious Insult,Medium
+513,That cultural practice is ridiculous.,Negative,ridiculous,Cultural Harassment,Medium
+514,Your political argument is pathetic.,Negative,pathetic,Political Mockery,Medium
+515,Stop being a freak in online forums.,Negative,freak,Social Manipulation,High
+516,You are useless in the chat group.,Negative,useless,Workplace Belittling,High
+517,That outfit is weird for the event.,Negative,weird,Body Shaming,Medium
+518,Only men can lead online projects.,Negative,none,Sexist Remark,High
+519,You look creepy in that photo.,Negative,creepy,Body Shaming,Medium
+520,That was an idiotic comment.,Negative,idiot,Cyberbullying,High
+521,Your online posts are pathetic.,Negative,pathetic,Cyberbullying,High
+522,That outfit makes you look ridiculous.,Negative,ridiculous,Body Shaming,Medium
+523,People like you should not speak here.,Negative,none,Social Exclusion,High
+524,Your political opinion is dumb.,Negative,dumb,Political Mockery,Medium
+525,Stop acting like a fool in the discussion.,Negative,fool,Insult,High
+526,Your essay on culture is awful.,Negative,awful,Academic Shaming,Medium
+527,You always slow down group projects.,Negative,none,Workplace Belittling,Medium
+528,That comment was creepy.,Negative,creepy,Body Shaming,Medium
+529,Only a loser would behave like that.,Negative,loser,Insult,High
+530,Your lifestyle choices are pathetic.,Negative,pathetic,Lifestyle Shaming,Medium
+531,Stop posting annoying comments online.,Negative,annoying,Social Manipulation,Medium
+532,Women cannot manage leadership roles online.,Negative,none,Sexist Remark,High
+533,You are useless in this chat.,Negative,useless,Workplace Belittling,High
+534,That outfit looks weird today.,Negative,weird,Body Shaming,Medium
+535,Your traditions are silly.,Negative,silly,Cultural Harassment,Medium
+536,Only idiots would post such nonsense.,Negative,idiots,Cyberbullying,High
+537,That political post was dumb.,Negative,dumb,Political Mockery,Medium
+538,You are acting like a freak again.,Negative,freak,Social Manipulation,High
+539,Stop being a jerk in meetings.,Negative,jerk,Workplace Belittling,Low
+540,Your research paper is awful.,Negative,awful,Academic Shaming,Medium
+541,That comment makes you look creepy.,Negative,creepy,Body Shaming,Medium
+542,Only a weirdo would say that online.,Negative,weirdo,Social Manipulation,High
+543,Your ideas are ridiculous.,Negative,ridiculous,Insult,Medium
+544,That essay is pathetic and incomplete.,Negative,pathetic,Academic Shaming,High
+545,Stop acting like a clown in this chat.,Negative,clown,Social Manipulation,Low
+546,That opinion is dumb.,Negative,dumb,Political Mockery,Medium
+547,You are useless in this discussion.,Negative,useless,Workplace Belittling,High
+548,That outfit looks strange for the event.,Negative,strange,Body Shaming,Medium
+549,Women cannot handle online discussions.,Negative,none,Sexist Remark,High
+550,Stop being a freak in the forum.,Negative,freak,Social Manipulation,High
+551,You slow down projects constantly.,Negative,none,Workplace Belittling,Medium
+552,Don?t post idiotic comments.,Negative,idiotic,Cyberbullying,High
+553,That post is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+554,Your profile photo looks creepy.,Negative,creepy,Body Shaming,Medium
+555,Only a weirdo would post that here.,Negative,weirdo,Social Manipulation,High
+556,Your essay is awful; revise it.,Negative,awful,Academic Shaming,Medium
+557,That post was dumb.,Negative,dumb,Cyberbullying,Medium
+558,Stop acting like a clown online.,Negative,clown,Social Manipulation,Low
+559,That idea is pathetic.,Negative,pathetic,Insult,High
+560,Your posts are irritating.,Negative,irritating,Sarcasm/Mockery,Medium
+561,That homework is awful; redo it.,Negative,awful,Academic Shaming,Medium
+562,Stop being annoying in online chats.,Negative,annoying,Social Manipulation,Medium
+563,Your outfit looks ridiculous.,Negative,ridiculous,Body Shaming,Medium
+564,Only men can lead online projects.,Negative,none,Sexist Remark,High
+565,That post was dumb.,Negative,dumb,Political Mockery,Medium
+566,You are useless in this online project.,Negative,useless,Workplace Belittling,High
+567,That profile picture is weird.,Negative,weird,Body Shaming,Medium
+568,Women cannot manage online discussions.,Negative,none,Sexist Remark,High
+569,Stop being a freak in chats.,Negative,freak,Social Manipulation,High
+570,You slow down group work.,Negative,none,Workplace Belittling,Medium
+571,Don?t post idiotic ideas.,Negative,idiotic,Cyberbullying,High
+572,That comment is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+573,Your photo looks creepy.,Negative,creepy,Body Shaming,Medium
+574,Only a weirdo would post that comment.,Negative,weirdo,Social Manipulation,High
+575,That essay is awful and messy.,Negative,awful,Academic Shaming,Medium
+576,Stop acting like a clown in forums.,Negative,clown,Social Manipulation,Low
+577,That opinion is dumb.,Negative,dumb,Political Mockery,Medium
+578,You are useless in this discussion.,Negative,useless,Workplace Belittling,High
+579,That outfit looks strange.,Negative,strange,Body Shaming,Medium
+580,Women cannot handle leadership online.,Negative,none,Sexist Remark,High
+581,Stop being a freak in the chat.,Negative,freak,Social Manipulation,High
+582,You slow down projects all the time.,Negative,none,Workplace Belittling,Medium
+583,Don?t post idiotic comments online.,Negative,idiotic,Cyberbullying,High
+584,That post is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+585,Your profile picture looks creepy.,Negative,creepy,Body Shaming,Medium
+586,Only a weirdo would post that online.,Negative,weirdo,Social Manipulation,High
+587,That essay is awful; fix it.,Negative,awful,Academic Shaming,Medium
+588,Stop acting like a clown online.,Negative,clown,Social Manipulation,Low
+589,That was a dumb comment.,Negative,dumb,Cyberbullying,Medium
+590,Your religious post is ridiculous.,Negative,ridiculous,Religious Insult,Medium
+591,That cultural practice is silly.,Negative,silly,Cultural Harassment,Medium
+592,Your political argument is pathetic.,Negative,pathetic,Political Mockery,Medium
+593,Stop being a freak online.,Negative,freak,Social Manipulation,High
+594,You are useless in this group.,Negative,useless,Workplace Belittling,High
+595,That outfit is weird for the event.,Negative,weird,Body Shaming,Medium
+596,Only men can lead projects online.,Negative,none,Sexist Remark,High
+597,You look creepy in the photo.,Negative,creepy,Body Shaming,Medium
+598,That was an idiotic comment.,Negative,idiotic,Cyberbullying,High
+599,Your essay is awful.,Negative,awful,Academic Shaming,Medium
+600,Stop acting like a clown in chat.,Negative,clown,Social Manipulation,Low
+601,That post is dumb.,Negative,dumb,Political Mockery,Medium
+602,You are useless in this project.,Negative,useless,Workplace Belittling,High
+603,That profile picture looks strange.,Negative,strange,Body Shaming,Medium
+604,Women cannot lead online projects.,Negative,none,Sexist Remark,High
+605,Stop being a freak in discussions.,Negative,freak,Social Manipulation,High
+606,You slow down group discussions.,Negative,none,Workplace Belittling,Medium
+607,Don?t post idiotic messages.,Negative,idiotic,Cyberbullying,High
+608,That post is ridiculous.,Negative,ridiculous,Political Mockery,Medium
+609,Your photo looks creepy.,Negative,creepy,Body Shaming,Medium
+610,Only a weirdo would post that online.,Negative,weirdo,Social Manipulation,High
+611,That essay is awful; redo it.,Negative,awful,Academic Shaming,Medium
+612,Stop acting like a clown online.,Negative,clown,Social Manipulation,Low
+613,That was a dumb post.,Negative,dumb,Cyberbullying,Medium
+614,Your religious post is ridiculous.,Negative,ridiculous,Religious Insult,Medium
+615,That cultural practice is ridiculous.,Negative,ridiculous,Cultural Harassment,Medium
+616,Your political argument is pathetic.,Negative,pathetic,Political Mockery,Medium
+617,Stop being a freak online.,Negative,freak,Social Manipulation,High
+618,You are useless in this group.,Negative,useless,Workplace Belittling,High
+619,That outfit is weird for the event.,Negative,weird,Body Shaming,Medium
+620,Only men can lead projects online.,Negative,none,Sexist Remark,High
+621,Great job on completing the project ahead of time,Positive,none,Praise,Low
+622,Your contribution really helped the team succeed,Positive,none,Praise,Low
+623,"Interesting perspective on the topic, thanks for sharing",Positive,none,Praise,Low
+624,I appreciate your effort in finishing this task,Positive,none,Praise,Low
+625,Your idea could use a little improvement,Neutral,none,Constructive Feedback,Medium
+626,That post was informative and clear,Positive,none,Praise,Low
+627,I see your point but consider other options too,Neutral,none,Constructive Feedback,Medium
+628,Excellent analysis in your essay,Positive,none,Praise,Low
+629,You explained that really well,Positive,none,Praise,Low
+630,This is acceptable but could be refined,Neutral,none,Constructive Feedback,Low
+631,Your report is well-structured and easy to follow,Positive,none,Praise,Low
+632,That comment is reasonable and fair,Neutral,none,Neutral Observation,Low
+633,I like your presentation style,Positive,none,Praise,Low
+634,Your post is clear but missing some details,Neutral,none,Constructive Feedback,Medium
+635,Good explanation of the concept,Positive,none,Praise,Low
+636,The suggestion makes sense,Neutral,none,Neutral Observation,Low
+637,Great effort on completing the assignment,Positive,none,Praise,Low
+638,Your solution is okay but can be optimized,Neutral,none,Constructive Feedback,Medium
+639,That was a clever approach,Positive,none,Praise,Low
+640,I understand your argument but need clarification,Neutral,none,Constructive Feedback,Low
+641,Well done on achieving your goal,Positive,none,Praise,Low
+642,"Your idea is neutral, worth further thought",Neutral,none,Neutral Observation,Low
+643,Fantastic teamwork on this project,Positive,none,Praise,Low
+644,"The results are average, not bad",Neutral,none,Neutral Observation,Low
+645,Your work is impressive,Positive,none,Praise,Low
+646,The explanation is okay but not complete,Neutral,none,Constructive Feedback,Medium
+647,Excellent contribution in discussion,Positive,none,Praise,Low
+648,"That answer is neutral, correct but basic",Neutral,none,Neutral Observation,Low
+649,I like your approach to solving the problem,Positive,none,Praise,Low
+650,"Your essay is neutral, informative but needs polish",Neutral,none,Constructive Feedback,Medium
+651,Well done on providing accurate data,Positive,none,Praise,Low
+652,The suggestion is reasonable but requires improvement,Neutral,none,Constructive Feedback,Medium
+653,Great insights on this topic,Positive,none,Praise,Low
+654,"The point is neutral, informative but incomplete",Neutral,none,Neutral Observation,Medium
+655,Excellent demonstration of skills,Positive,none,Praise,Low
+656,"That presentation is okay, could be improved",Neutral,none,Constructive Feedback,Medium
+657,Well articulated ideas,Positive,none,Praise,Low
+658,The explanation is neutral but understandable,Neutral,none,Neutral Observation,Low
+659,Your report is thorough and clear,Positive,none,Praise,Low
+660,"The comment is neutral, factual but brief",Neutral,none,Neutral Observation,Low
+661,Great analysis on this problem,Positive,none,Praise,Low
+662,"Your solution is neutral, works but needs clarity",Neutral,none,Constructive Feedback,Medium
+663,Excellent participation in discussion,Positive,none,Praise,Low
+664,"The essay is neutral, well-written but basic",Neutral,none,Constructive Feedback,Medium
+665,Wonderful teamwork displayed,Positive,none,Praise,Low
+666,"Your idea is neutral, worth exploring further",Neutral,none,Neutral Observation,Low
+667,Great job sharing your insights,Positive,none,Praise,Low
+668,"The comment is neutral, informative and concise",Neutral,none,Neutral Observation,Low
+669,Excellent explanation of the concept,Positive,none,Praise,Low
+670,"That observation is neutral, valid but needs more details",Neutral,none,Constructive Feedback,Medium
+671,Your idea is impressive and creative,Positive,none,Praise,Low
+672,I think your solution works but could be clearer,Neutral,none,Constructive Feedback,Medium
+673,You always make everything about yourself,Negative,always,Insult,Medium
+674,Great explanation on the topic,Positive,none,Praise,Low
+675,That approach is okay but needs refinement,Neutral,none,Constructive Feedback,Medium
+676,You are completely useless in these tasks,Negative,useless,Insult,High
+677,Well done on completing the assignment,Positive,none,Praise,Low
+678,The report is okay but lacks some important points,Neutral,none,Constructive Feedback,Medium
+679,You act like a total clown in meetings,Negative,clown,Workplace Belittling,Medium
+680,Excellent teamwork throughout the project,Positive,none,Praise,Low
+681,Your post is clear but missing examples,Neutral,none,Constructive Feedback,Medium
+682,Stop being so lazy all the time,Negative,lazy,Workplace Belittling,High
+683,Good job presenting your ideas,Positive,none,Praise,Low
+684,The essay is fine but could use more detail,Neutral,none,Constructive Feedback,Medium
+685,That comment was pathetic and annoying,Negative,pathetic,Insult,High
+686,Nice work on the assignment,Positive,none,Praise,Low
+687,Your argument is valid but needs more evidence,Neutral,none,Constructive Feedback,Medium
+688,You are a complete fool for thinking that,Negative,fool,Insult,High
+689,Great participation in the discussion,Positive,none,Praise,Low
+690,That solution works but can be improved,Neutral,none,Constructive Feedback,Medium
+691,You always ruin the project with your mistakes,Negative,ruin,Workplace Belittling,High
+692,Wonderful presentation and clear ideas,Positive,none,Praise,Low
+693,"Your idea is neutral, informative but brief",Neutral,none,Neutral Observation,Low
+694,Stop being such an annoying person,Negative,annoying,Sarcasm/Mockery,Medium
+695,Excellent analysis of the data,Positive,none,Praise,Low
+696,Your essay is fine but needs minor edits,Neutral,none,Constructive Feedback,Low
+697,That was a ridiculous statement,Negative,ridiculous,Insult,Medium
+698,Great clarity in your explanation,Positive,none,Praise,Low
+699,The post is acceptable but lacks depth,Neutral,none,Constructive Feedback,Medium
+700,You look completely ridiculous in that photo,Negative,ridiculous,Body Shaming,High
+701,Nice job summarizing the key points,Positive,none,Praise,Low
+702,"That comment is neutral, correct but simple",Neutral,none,Neutral Observation,Low
+703,You are so pathetic when you explain things,Negative,pathetic,Sarcasm/Mockery,Medium
+704,Excellent effort on completing your work,Positive,none,Praise,Low
+705,Your essay is okay but missing some points,Neutral,none,Constructive Feedback,Medium
+706,You are an idiot for thinking that,Negative,idiot,Insult,High
+707,Great job presenting your findings,Positive,none,Praise,Low
+708,That idea is neutral but worth exploring,Neutral,none,Neutral Observation,Low
+709,"You are so useless, why even try",Negative,useless,Workplace Belittling,High
+710,Good work on finishing the task,Positive,none,Praise,Low
+711,Your comment is fine but needs clarity,Neutral,none,Constructive Feedback,Medium
+712,That was a stupid decision,Negative,stupid,Insult,Medium
+713,Excellent job summarizing the topic,Positive,none,Praise,Low
+714,Your essay is acceptable but not detailed,Neutral,none,Constructive Feedback,Medium
+715,Stop acting like a fool all the time,Negative,fool,Insult,Medium
+716,Great participation and thoughtful comments,Positive,none,Praise,Low
+717,"The post is neutral, clear but brief",Neutral,none,Neutral Observation,Low
+718,You always make things worse,Negative,worse,Workplace Belittling,High
+719,Well done explaining the key points,Positive,none,Praise,Low
+720,Your solution is fine but needs refinement,Neutral,none,Constructive Feedback,Medium
+721,You are ridiculous for thinking that,Negative,ridiculous,Insult,Medium
+722,Excellent clarity in your presentation,Positive,none,Praise,Low
+723,"That essay is neutral, informative but simple",Neutral,none,Neutral Observation,Low
+724,Stop being such a lazy person,Negative,lazy,Workplace Belittling,High
+725,Great work on your assignment,Positive,none,Praise,Low
+726,Your comment is okay but could be better,Neutral,none,Constructive Feedback,Medium
+727,You are so annoying in every discussion,Negative,annoying,Sarcasm/Mockery,Medium
+728,Nice job analyzing the problem,Positive,none,Praise,Low
+729,"That post is neutral, accurate but brief",Neutral,none,Neutral Observation,Low
+730,You are a complete fool for this action,Negative,fool,Insult,High
+731,Great explanation and well-structured ideas,Positive,none,Praise,Low
+732,"Your essay is neutral, readable but simple",Neutral,none,Neutral Observation,Low
+733,Stop being pathetic all the time,Negative,pathetic,Sarcasm/Mockery,Medium
+734,Excellent teamwork and effort,Positive,none,Praise,Low
+735,"The report is neutral, informative but basic",Neutral,none,Neutral Observation,Low
+736,You look awful in this photo,Negative,awful,Body Shaming,High
+737,Good job presenting your results,Positive,none,Praise,Low
+738,Your comment is neutral but could be clearer,Neutral,none,Constructive Feedback,Medium
+739,You are such a clown sometimes,Negative,clown,Insult,Medium
+740,Excellent contribution in the discussion,Positive,none,Praise,Low
+741,"That post is neutral, correct but simple",Neutral,none,Neutral Observation,Low
+742,Stop being annoying in group tasks,Negative,annoying,Sarcasm/Mockery,Medium
+743,Great clarity in your explanation,Positive,none,Praise,Low
+744,"The solution is neutral, works but incomplete",Neutral,none,Constructive Feedback,Medium
+745,You are ridiculous for making that mistake,Negative,ridiculous,Insult,High
+746,Nice work summarizing the key points,Positive,none,Praise,Low
+747,"The essay is neutral, informative but short",Neutral,none,Neutral Observation,Low
+748,You are a complete idiot for doing that,Negative,idiot,Insult,High
+749,Excellent job presenting your ideas,Positive,none,Praise,Low
+750,"That comment is neutral, factual but brief",Neutral,none,Neutral Observation,Low
+751,Your analysis is impressive and detailed,Positive,none,Praise,Low
+752,That solution is okay but can be improved,Neutral,none,Constructive Feedback,Medium
+753,You are completely useless at this task,Negative,useless,Workplace Belittling,High
+754,Great explanation of the key points,Positive,none,Praise,Low
+755,Your essay is acceptable but lacks examples,Neutral,none,Constructive Feedback,Medium
+756,Stop being so lazy all the time,Negative,lazy,Workplace Belittling,High
+757,Excellent participation in the discussion,Positive,none,Praise,Low
+758,That post is neutral but informative,Neutral,none,Neutral Observation,Low
+759,You are a ridiculous person for saying that,Negative,ridiculous,Insult,Medium
+760,Nice work summarizing the topic,Positive,none,Praise,Low
+761,Your comment is fine but could be clearer,Neutral,none,Constructive Feedback,Medium
+762,You are an idiot for thinking that,Negative,idiot,Insult,High
+763,Great effort on your assignment,Positive,none,Praise,Low
+764,"That essay is neutral, readable but simple",Neutral,none,Neutral Observation,Low
+765,Stop being annoying in group discussions,Negative,annoying,Sarcasm/Mockery,Medium
+766,Excellent clarity in your explanation,Positive,none,Praise,Low
+767,The report is okay but missing some details,Neutral,none,Constructive Feedback,Medium
+768,You are a fool for making that choice,Negative,fool,Insult,Medium
+769,Great teamwork throughout the project,Positive,none,Praise,Low
+770,"Your post is neutral, correct but brief",Neutral,none,Neutral Observation,Low
+771,That was a pathetic attempt,Negative,pathetic,Sarcasm/Mockery,Medium
+772,Nice job presenting your findings,Positive,none,Praise,Low
+773,"Your essay is neutral, informative but brief",Neutral,none,Neutral Observation,Low
+774,You are ridiculous for thinking that,Negative,ridiculous,Insult,Medium
+775,Excellent effort and presentation,Positive,none,Praise,Low
+776,The solution is neutral but works,Neutral,none,Constructive Feedback,Medium
+777,You look awful in this image,Negative,awful,Body Shaming,High
+778,Well done summarizing the key points,Positive,none,Praise,Low
+779,Your comment is neutral but needs more clarity,Neutral,none,Constructive Feedback,Medium
+780,Stop acting like a clown,Negative,clown,Insult,Medium
+781,Great explanation and structure,Positive,none,Praise,Low
+782,"The post is neutral, informative but short",Neutral,none,Neutral Observation,Low
+783,You are annoying in every task,Negative,annoying,Sarcasm/Mockery,Medium
+784,Excellent work on the assignment,Positive,none,Praise,Low
+785,"The essay is neutral, correct but simple",Neutral,none,Neutral Observation,Low
+786,You are a fool for making that decision,Negative,fool,Insult,Medium
+787,Nice job presenting your ideas,Positive,none,Praise,Low
+788,That post is neutral but understandable,Neutral,none,Neutral Observation,Low
+789,You are pathetic in this explanation,Negative,pathetic,Sarcasm/Mockery,Medium
+790,Great effort and participation,Positive,none,Praise,Low
+791,"The report is neutral, informative but basic",Neutral,none,Neutral Observation,Low
+792,You are a complete idiot for doing that,Negative,idiot,Insult,High
+793,Excellent clarity in your work,Positive,none,Praise,Low
+794,"Your essay is neutral, readable but short",Neutral,none,Neutral Observation,Low
+795,Stop being ridiculous all the time,Negative,ridiculous,Insult,Medium
+796,Well done summarizing the topic,Positive,none,Praise,Low
+797,"The post is neutral, correct but brief",Neutral,none,Neutral Observation,Low
+798,You are completely useless at this task,Negative,useless,Workplace Belittling,High
+799,Great teamwork and explanation,Positive,none,Praise,Low
+800,"Your comment is neutral, factual but brief",Neutral,none,Neutral Observation,Low
